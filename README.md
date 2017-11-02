@@ -1,4 +1,5 @@
 # Win-Roaming-Profile-DEL
+(Written in Batch and PowerShell for Windows based systems)
 
 ## What is this for?
 Win-Roaming-Profile-DEL was created as a result of quickly and efficiently needing to wipe out a profile across a series of servers to remove the NTUSER.dat and related registry entries.
